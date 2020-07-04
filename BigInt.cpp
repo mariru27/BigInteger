@@ -5,7 +5,7 @@
 #include <vector>
 #include <functional>
 
-#define SIZE 60
+#define SIZE 400
 
 class BigInt
 {
